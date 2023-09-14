@@ -1,0 +1,22 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "name": "bensin",
+      "category": "transportasi",
+      "createdAt": "2023-09-13T08:54:02.248Z"
+    },
+    {
+      "id": 2,
+      "name": "kangkung",
+      "category": "dapur",
+      "createdAt": "2023-09-13T08:54:15.532Z"
+    },
+    {
+      "id": 3,
+      "name": "kangkung",
+      "category": "dapur",
+      "createdAt": "2023-09-14T02:45:30.650Z"
+    }
+  ]
+}
